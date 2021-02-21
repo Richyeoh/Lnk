@@ -1,3 +1,3 @@
 # Lnk
 
-``Lnk`` mean's Learn new knowledge.
+``Lnk`` mean is Learn new knowledge.
