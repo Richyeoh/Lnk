@@ -62,7 +62,8 @@ echo $[(3*5)+5]
 # 使用变量时要加$前缀。
 a=100
 b=200
-echo `expr a + b`
+echo `expr $a + $b`
+echo `expr $a \* $b`
 
 # bc 命令
 # -h | --help 帮助信息
