@@ -79,3 +79,6 @@ shopt login_shell
 
 # 实例2：修改命令提示符的格式
 # PS1="[apple]>> "
+
+# $- 中包含 i 则认为是交互式的 或 $PS1 不为空 也认为是交互式的
+# shopt login_shell 输出为on 为登录时 off 为非登录式
